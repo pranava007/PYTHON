@@ -1,0 +1,6 @@
+print("even")
+i=list(range(0,20,2))
+print(i)
+print("odd")
+i=list(range(1,20,2))
+print(i)
